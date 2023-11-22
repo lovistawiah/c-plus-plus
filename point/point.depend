@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1611755354 source:c:\users\lovis\documents\c++\point\main.cpp
+	<iostream>
+	<cstring>
+
